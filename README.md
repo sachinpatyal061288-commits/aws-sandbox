@@ -1,2 +1,2 @@
 # aws-sandbox
-aws-sandbox for the personal account
+This is the Readme file in aws-sandbox repository for the personal account.
